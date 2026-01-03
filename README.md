@@ -5,19 +5,19 @@
 
 - 🔭 I’m currently working on **refining my skills in all domains**
 
-- 🌱 I’m currently learning **C++ JS, Dart, Flutter, Linux**
+- 🌱 I’m currently learning **C++, Dart, Go Lang, Linux**
 
 - 👯 I’m looking to collaborate on **web development projects**
 
-- 🤝 I’m looking for help with **cloud computing and cyber security**
+- 🤝 I’m looking for help with **cloud computing, Web Development and cyber security**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ayushdogra25](https://github.com/ayushdogra25)
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **HTML, CSS, JS**
 
 - 📫 How to reach me **dogra.ayush@gmail.com**
 
-- 📄 Know about my experiences [https://ayushdogra.netlify.app/](https://ayushdogra.netlify.app/)
+- 📄 Know about my experiences [https://hiayushdogra.netlify.app//]((https://hiayushdogra.netlify.app/)/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
